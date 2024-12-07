@@ -1,9 +1,12 @@
 import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  plugins: [react()],
   base: '/sorting-visualizer/',
   build: {
-    target: 'es2018'
+    target: 'es2018',
+    outDir: 'dist'
   }
 }) 
