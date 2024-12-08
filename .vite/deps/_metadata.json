@@ -1,0 +1,152 @@
+{
+  "hash": "a20c9a32",
+  "browserHash": "dd687fe8",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "13915a4f",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "dc32151d",
+      "needsInterop": true
+    },
+    "styled-components": {
+      "src": "../../node_modules/styled-components/dist/styled-components.browser.esm.js",
+      "file": "styled-components.js",
+      "fileHash": "f2879a73",
+      "needsInterop": false
+    },
+    "@material-ui/core/styles": {
+      "src": "../../node_modules/@material-ui/core/esm/styles/index.js",
+      "file": "@material-ui_core_styles.js",
+      "fileHash": "d48bf62a",
+      "needsInterop": false
+    },
+    "@material-ui/core/AppBar": {
+      "src": "../../node_modules/@material-ui/core/esm/AppBar/index.js",
+      "file": "@material-ui_core_AppBar.js",
+      "fileHash": "dbeefa92",
+      "needsInterop": false
+    },
+    "@material-ui/core/Tabs": {
+      "src": "../../node_modules/@material-ui/core/esm/Tabs/index.js",
+      "file": "@material-ui_core_Tabs.js",
+      "fileHash": "45b58965",
+      "needsInterop": false
+    },
+    "@material-ui/core/Tab": {
+      "src": "../../node_modules/@material-ui/core/esm/Tab/index.js",
+      "file": "@material-ui_core_Tab.js",
+      "fileHash": "81d28766",
+      "needsInterop": false
+    },
+    "zustand/shallow": {
+      "src": "../../node_modules/zustand/esm/shallow.js",
+      "file": "zustand_shallow.js",
+      "fileHash": "b3b5018b",
+      "needsInterop": false
+    },
+    "react-icons/vsc": {
+      "src": "../../node_modules/react-icons/vsc/index.esm.js",
+      "file": "react-icons_vsc.js",
+      "fileHash": "b0c7d06c",
+      "needsInterop": false
+    },
+    "react-icons/im": {
+      "src": "../../node_modules/react-icons/im/index.esm.js",
+      "file": "react-icons_im.js",
+      "fileHash": "46abe82e",
+      "needsInterop": false
+    },
+    "@material-ui/core/Slider": {
+      "src": "../../node_modules/@material-ui/core/esm/Slider/index.js",
+      "file": "@material-ui_core_Slider.js",
+      "fileHash": "d65a97a6",
+      "needsInterop": false
+    },
+    "@material-ui/core/TextField": {
+      "src": "../../node_modules/@material-ui/core/esm/TextField/index.js",
+      "file": "@material-ui_core_TextField.js",
+      "fileHash": "ea24e5f6",
+      "needsInterop": false
+    },
+    "@material-ui/core/Button": {
+      "src": "../../node_modules/@material-ui/core/esm/Button/index.js",
+      "file": "@material-ui_core_Button.js",
+      "fileHash": "59ca7d0b",
+      "needsInterop": false
+    },
+    "zustand": {
+      "src": "../../node_modules/zustand/esm/index.js",
+      "file": "zustand.js",
+      "fileHash": "abc333e6",
+      "needsInterop": false
+    },
+    "zustand/middleware": {
+      "src": "../../node_modules/zustand/esm/middleware.js",
+      "file": "zustand_middleware.js",
+      "fileHash": "79bae325",
+      "needsInterop": false
+    },
+    "@material-ui/core/Card": {
+      "src": "../../node_modules/@material-ui/core/esm/Card/index.js",
+      "file": "@material-ui_core_Card.js",
+      "fileHash": "2f5b4154",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NAJFNWJY": {
+      "file": "chunk-NAJFNWJY.js"
+    },
+    "chunk-2AQXJRK5": {
+      "file": "chunk-2AQXJRK5.js"
+    },
+    "chunk-GYDJD24S": {
+      "file": "chunk-GYDJD24S.js"
+    },
+    "chunk-CKMKRAM7": {
+      "file": "chunk-CKMKRAM7.js"
+    },
+    "chunk-P6D724GQ": {
+      "file": "chunk-P6D724GQ.js"
+    },
+    "chunk-KP7XZ5NQ": {
+      "file": "chunk-KP7XZ5NQ.js"
+    },
+    "chunk-UOM7BKR5": {
+      "file": "chunk-UOM7BKR5.js"
+    },
+    "chunk-TLFT7UJV": {
+      "file": "chunk-TLFT7UJV.js"
+    },
+    "chunk-NPKHIS34": {
+      "file": "chunk-NPKHIS34.js"
+    },
+    "chunk-3ASRZY4K": {
+      "file": "chunk-3ASRZY4K.js"
+    },
+    "chunk-2LJNSQHW": {
+      "file": "chunk-2LJNSQHW.js"
+    },
+    "chunk-YYFBBRLJ": {
+      "file": "chunk-YYFBBRLJ.js"
+    },
+    "chunk-LJE4UF3L": {
+      "file": "chunk-LJE4UF3L.js"
+    },
+    "chunk-EU6QCHT3": {
+      "file": "chunk-EU6QCHT3.js"
+    },
+    "chunk-23ZMGCJ2": {
+      "file": "chunk-23ZMGCJ2.js"
+    },
+    "chunk-UXIASGQL": {
+      "file": "chunk-UXIASGQL.js"
+    }
+  }
+}
