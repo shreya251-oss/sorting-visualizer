@@ -2,9 +2,9 @@
   "name": "front-end-made-easy",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "serve": "npx vite preview"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
